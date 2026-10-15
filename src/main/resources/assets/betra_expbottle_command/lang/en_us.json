@@ -1,0 +1,5 @@
+{
+  "betra.expBottleCommand.sourceIsNotPlayer": "The target is not a player.",
+  "betra.expBottleCommand.commandSuccess.amount": "Consumed %1$d experience points and converted them into %2$d Bottles o' Enchanting.",
+  "betra.expBottleCommand.notEnoughExperiencePoints": "Insufficient experience points."
+}

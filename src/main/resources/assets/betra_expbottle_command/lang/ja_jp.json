@@ -1,0 +1,5 @@
+{
+  "betra.expBottleCommand.sourceIsNotPlayer": "対象がプレイヤーではありません。",
+  "betra.expBottleCommand.commandSuccess.amount": "経験値を%1$d消費して%2$d個のエンチャントの瓶に変換しました。",
+  "betra.expBottleCommand.notEnoughExperiencePoints": "経験値が不足しています。"
+}
