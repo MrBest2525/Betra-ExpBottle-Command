@@ -9,5 +9,6 @@ public class ModIdentifiers {
         public static final Identifier EXP_BOTTLE_COMMAND = Identifier.fromNamespaceAndPath(MODID, "expbottle");
         public static final Identifier EXP_BOTTLE_COMMAND_COUNT = Identifier.fromNamespaceAndPath(MODID, "expbottle.count");
         public static final Identifier EXP_BOTTLE_COMMAND_ALL = Identifier.fromNamespaceAndPath(MODID, "expbottle.all");
+        public static final Identifier EXP_BOTTLE_COMMAND_MAX = Identifier.fromNamespaceAndPath(MODID, "expbottle.max");
     }
 }

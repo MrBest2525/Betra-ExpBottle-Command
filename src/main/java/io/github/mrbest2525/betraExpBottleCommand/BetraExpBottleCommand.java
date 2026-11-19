@@ -30,6 +30,11 @@ public class BetraExpBottleCommand implements ModInitializer {
                                             .requires(PermissionPredicates.require(ModIdentifiers.Permission.EXP_BOTTLE_COMMAND_ALL, true))
                                             .executes(ExpBottleCommand::executeAll)
                             )
+                            .then(
+                                    Commands.literal("max")
+                                            .requires(PermissionPredicates.require(ModIdentifiers.Permission.EXP_BOTTLE_COMMAND_MAX, true))
+                                            .executes(ExpBottleCommand::executeMax)
+                            )
             );
             
             dispatcher.register(
